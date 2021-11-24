@@ -225,3 +225,12 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
+
+.reach-out {
+    text-align: center;
+    background-color: #024e76;
+}
+
+.text-color-yellow {
+    color: #fce138;
+}
